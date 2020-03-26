@@ -1,0 +1,7 @@
+Public class Text{
+Public static  void main(String[] args)
+{
+System.out.println("Hi this  is my First program");
+System.out.println("hi this is my Second Porgram")
+}
+}
